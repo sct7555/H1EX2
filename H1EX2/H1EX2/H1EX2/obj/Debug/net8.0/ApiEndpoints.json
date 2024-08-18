@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "H1EX2.Controllers.FreteController",
+    "Method": "CalcularFrete",
+    "RelativePath": "API/Frete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_frete",
+        "Type": "H1EX2.Models.Frete",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "H1EX2.Controllers.FreteController",
+    "Method": "CalcularFrete",
+    "RelativePath": "API/Frete/calcular-frete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_frete",
+        "Type": "H1EX2.Models.Frete",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
